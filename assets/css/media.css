@@ -24,13 +24,10 @@
     gap: 0;
   }
 
-#home .caption h1 {
-
-  font-size: 2rem;
-
-}
-        #home .caption .text-typed::after {
-
-          font-weight: 400;
-        }
+  #home .caption h1 {
+    font-size: 2rem;
+  }
+  #home .caption .text-typed::after {
+    font-weight: 400;
+  }
 }
