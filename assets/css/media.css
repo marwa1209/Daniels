@@ -1,0 +1,26 @@
+/** @format */
+
+@media screen and (min-width: 1400px) {
+  .container {
+    width: 1170px;
+  }
+}
+/* contact responsive */
+@media screen and (max-width: 960px) {
+  #contact .container {
+    padding-inline: 10px;
+  }
+}
+
+@media screen and (max-width: 766px) {
+  .navbar-collapse {
+    padding-block: 30px;
+    background-color: #fff !important;
+  }
+  .navbar-collapse ul li a {
+    color: #000;
+  }
+  .navbar-scrolled .gap {
+    gap: 0;
+  }
+}
